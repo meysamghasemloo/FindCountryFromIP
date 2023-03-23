@@ -1,0 +1,19 @@
+{
+    "name": "meysamghasemloo/find-country-from-ip",
+    "description": "find country from ip",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "meysamghasemloo\\FindCountryFromIP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meysam Ghasemloo"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": ">=5.0"
+    }
+}
